@@ -42,7 +42,7 @@ A diabetes app is a mobile application designed to assist individuals with manag
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/akiyamahaa/expo-M4K.git
-cd expo-tech-app
+git clone https://github.com/antiennguyen/Diabetes.git
+cd Diabetes
 yarn
 yarn start
